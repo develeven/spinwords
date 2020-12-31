@@ -7,7 +7,6 @@ DO NOT USE: split, join, reverse, or map
 */
 
 function spinWords(wordString){
-    //TODO Have fun :)
     var characterCounter = 0;
     var spacePosition = [];
     var wordPosition = [0];
